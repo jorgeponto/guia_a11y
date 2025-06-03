@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curso Um
+title: Normas e Diretrizes de Acessibilidade
 ---
 
 # Introdução à Legislação de Acessibilidade Digital em Portugal
