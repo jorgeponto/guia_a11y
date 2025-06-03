@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Normas e Diretrizes de Acessibilidade
+title: 1. Normas e Diretrizes de Acessibilidade
 ---
 
 # Introdução à Legislação de Acessibilidade Digital em Portugal

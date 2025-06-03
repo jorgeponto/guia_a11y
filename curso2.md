@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estrutura de Páginas
+title: 2. Estrutura de Páginas
 ---
 
 # Estrutura e Semântica do HTML
